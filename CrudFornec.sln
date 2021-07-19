@@ -25,7 +25,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CrudFornec.Data", "CrudForn
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CrudFornec.IoC", "CrudFornec.IoC\CrudFornec.IoC.csproj", "{CEE87C1F-6F82-4475-8075-B67ABD470879}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CurdFornec.Swagger", "CurdFornec.Swagger\CurdFornec.Swagger.csproj", "{0D3B80DF-0334-4566-B896-11DF94A5B90E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CrudFornec.Swagger", "CurdFornec.Swagger\CrudFornec.Swagger.csproj", "{0D3B80DF-0334-4566-B896-11DF94A5B90E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
